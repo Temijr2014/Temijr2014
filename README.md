@@ -1,14 +1,20 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Temiloluwa
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I’m a student at Aptech (ACNS) and the founder of OgoStudio, a creative branding agency.
+I’m passionate about cybersecurity, SOC analysis, and creative design, and I love building projects that combine tech, security, and visual storytelling..
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+To grow my skills as a cybersecurity student at Aptech Studio ACNS and build real-world technical projects.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+To develop hands-on experience in SOC analysis, network security, and threat detection.
+
+To build and share projects that showcase my learning journey in cybersecurity and IT.
+
+To expand OgoStudio, my branding agency, by combining creativity with technology.
+
+To improve my skills in design, branding, and digital content creation while building a strong professional portfolio.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
