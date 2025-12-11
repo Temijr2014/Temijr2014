@@ -1,6 +1,6 @@
 # Hello, I'm Temiloluwa✨
 
-I’m a student at Aptech (ACNS) and the founder of OgoStudio, a creative branding agency.
+I’m a student at Aptech (ACNE) and the founder of OgoStudio, a creative branding agency.
 I’m passionate about cybersecurity, SOC analysis, and creative design, and I love building projects that combine tech, security, and visual storytelling..
 
 ## Objective
